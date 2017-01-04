@@ -14,7 +14,6 @@ MarkupSafe==0.23
 mccabe==0.5.2
 Pillow==3.4.2
 pydub==0.16.3
-pyHook==1.5.1
 pylint==1.6.4
 pymongo==3.4.0
 pywin32==220.1
